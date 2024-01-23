@@ -1,4 +1,4 @@
-### Hi there Prajwal here.🌱 I’m currently learning about Machine Learning , Android andd DSA 👋
+### Hi there Prajwal here.🌱 I’m currently learning about Machine Learning , Android and DSA 👋
 
 <!--
 **sandy787/sandy787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
