@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on: Machine learning model for electricity load forecasting in Delhi.<br>👯 I’m looking to collaborate on: Predictive modeling and energy forecasting projects.<br>🤝 I’m looking for help with: Scaling ML models and real-time data integration.<br>🌱 I’m currently learning: Advanced Gaussian Processes for time-series forecasting.<br>💬 Ask me about: Graph algorithms, timetable generation, and ML optimization.<br>⚡ Fun fact: I love blending machine learning with photography and music!
+I'm a passionate and curious tech enthusiast with a deep interest in software development, especially in the Web and AI space. I thrive at the intersection of creativity and logic, where I love turning ideas into impactful applications. Over the years, I've explored diverse areas including iOS development, computer vision, and full-stack web projects, constantly pushing myself to learn and grow.
+
+Whether it's leading tech communities like GDSC as Lead, solving algorithmic problems (even when they're frustrating!), or building tools that make life easier for others, I believe in consistent effort, honesty, and learning through doing. Currently, I'm on a journey to sharpen my DSA skills and document the process transparently through my YouTube series Zero to Hero.
+
+Outside of code, I enjoy simplifying complex topics, guiding peers, and creating content that educates and inspires. I'm always open to collaboration, feedback, and new challenges!
 
 
 ## 🌐 Socials:
