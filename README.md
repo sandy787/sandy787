@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 **Professional Focus**
-Software Engineer at rtCamp. Ship production iOS apps in Swift/SwiftUI (GoDAM Studio, Maitri Ramaiya). Strong CS foundation, cloud platforms, real-time systems.
+Software Engineer at rtCamp. Ship production iOS apps in Swift/SwiftUI (GoDAM Studio). Strong CS foundation, cloud platforms, real-time systems.
 
 **Key Competencies**
 - iOS / SwiftUI development
