@@ -1,50 +1,46 @@
-# 💫 About Me
+# Prajwal's Developer Profile
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### Hey there! I'm Prajwal 👋
+**Professional Focus**
+Software Engineer at rtCamp. Ship production iOS apps in Swift/SwiftUI (GoDAM Studio, Maitri Ramaiya). Strong CS foundation, cloud platforms, real-time systems.
 
-I'm a passionate **Software Developer** and **AI/Web enthusiast** who thrives at the intersection of creativity and logic. I love transforming complex problems into elegant, impactful solutions.
+**Key Competencies**
+- iOS / SwiftUI development
+- Backend & real-time systems (Node.js, MongoDB, Socket.io)
+- Machine learning and on-device AI (CoreML)
+- Cloud deployment & self-hosting
+- Community leadership and mentorship
 
-🔭 **Currently working on** — AI-powered tools & full-stack web applications  
-🌱 **Learning** — Advanced ML, system design & cloud architecture  
-👥 **Community** — Former **GDSC Lead**, mentoring the next generation of developers  
-💡 **Interests** — Building products that make people's lives easier  
-🧩 **Fun fact** — I debug code like I solve puzzles — obsessively and with too many console logs!
+**Background & Community Involvement**
+Previously GDSC (Google Developer Student Club) Lead — directed 36-member core team, 10+ events, 500+ participants. Technical Lead at ITESA DYPCOE.
 
----
+**Current Pursuits**
+Building iOS at rtCamp. Exploring advanced ML, system design, cloud architecture.
 
-### 🚀 What I Do
-
-- 🌐 Build responsive, modern **web applications**
-- 🤖 Experiment with **AI/ML** models and integrations
-- 🏆 Tackle **competitive programming** challenges (yes, even the frustrating ones!)
-- 📚 Create **educational content** that simplifies complex tech topics
-- 🤝 Lead, mentor, and collaborate within **tech communities**
-
----
-
-### 💬 Let's Connect!
-
-I'm always open to **collaboration**, **feedback**, and **new challenges**. Whether you have a project idea, want to chat about tech, or just say hi — my DMs are open!
+**Tech I Vibe With**
+Mostly live in Xcode shipping SwiftUI. Comfortable spinning up a Node + MongoDB backend when the app needs one, wiring up sockets for real-time stuff, and tossing CoreML models on-device when things should run offline. Happy to SSH into a GCP box, throw something behind Cloudflare, or Dockerize a side project. C++ and Python show up whenever DSA or quick scripts call.
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanap_prajwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-sanap)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanap_prajwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalsanap)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0085CA?style=for-the-badge&logo=swift&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandy787&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sandy787&theme=blue_navy&hide_border=false)<br/>
+---
+
+![](https://github-readme-stats.vercel.app/api?username=sandy787&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sandy787&theme=blue_navy&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy787&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=sandy787&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=sandy787&icon=0&color=0)](https://visitcount.itsvg.in)
