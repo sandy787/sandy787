@@ -1,13 +1,12 @@
-  {
-    "screen": "Profile",
-    "rows": [
-      { "type": "navigation", "icon": "person.crop.circle.fill", "title": "Edit Profile", "destination": "edit" },
-      { "type": "navigation", "icon": "photo.on.rectangle", "title": "My Posts", "destination": "posts" },
-      { "type": "navigation", "icon": "bookmark.fill", "title": "Saved", "destination": "saved" },
-      { "type": "toggle", "icon": "eye.slash", "title": "Private Account", "destination": null },
-      { "type": "toggle", "icon": "bell.badge", "title": "Push Notifications", "destination": null },
-      { "type": "navigation", "icon": "creditcard", "title": "Payments", "destination": "payments" },
-      { "type": "navigation", "icon": "shield.lefthalf.filled", "title": "Security", "destination": "security" },
-      { "type": "navigation", "icon": "arrow.right.square", "title": "Log Out", "destination": "logout" }
-    ]
-  }
+{
+  "screen": "Settings",
+  "rows": [
+    { "type": "navigation", "icon": "person.crop.circle", "title": "Account", "destination": "account" },
+    { "type": "navigation", "icon": "bell", "title": "Notifications", "destination": "notifications" },
+    { "type": "toggle", "icon": "moon", "title": "Dark Mode", "destination": null },
+    { "type": "toggle", "icon": "airplane", "title": "Airplane Mode", "destination": null },
+    { "type": "navigation", "icon": "lock", "title": "Privacy", "destination": "privacy" },
+    { "type": "navigation", "icon": "star", "title": "Favorites", "destination": "favorites" },
+    { "type": "navigation", "icon": "questionmark.circle", "title": "Help", "destination": "help" }
+  ]
+}
