@@ -7,6 +7,6 @@
     { "type": "toggle", "icon": "airplane", "title": "Airplane Mode", "destination": null },
     { "type": "navigation", "icon": "lock", "title": "Privacy", "destination": "privacy" },
     { "type": "navigation", "icon": "star", "title": "Favorites", "destination": "favorites" },
-    { "type": "navigation", "icon": "questionmark.circle", "title": "Help", "destination": "help" }
+    { "type": "navigation", "icon": "questionmark.circle", "title": "Question", "destination": "question" }
   ]
 }
