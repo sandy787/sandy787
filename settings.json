@@ -1,0 +1,11 @@
+{
+  "screen": "Settings",
+  "rows": [
+    { "type": "navigation", "icon": "person.crop.circle", "title": "Account", "destination": "account" },
+    { "type": "navigation", "icon": "bell", "title": "Notifications", "destination": "notifications" },
+    { "type": "toggle", "icon": "moon", "title": "Dark Mode", "destination": null },
+    { "type": "toggle", "icon": "airplane", "title": "Airplane Mode", "destination": null },
+    { "type": "navigation", "icon": "lock", "title": "Privacy", "destination": "privacy" },
+    { "type": "navigation", "icon": "questionmark.circle", "title": "Help", "destination": "help" }
+  ]
+}
