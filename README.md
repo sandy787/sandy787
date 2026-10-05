@@ -8,7 +8,7 @@ I build and ship iOS and macOS applications in Swift and SwiftUI, and maintain t
 
 ### Production apps
 
-- **[GoDAM Studio](https://godam.io)** — Native iOS client for the GoDAM digital asset management platform: media library, background uploads, posts and analytics
+- **[GoDAM Studio](https://apps.apple.com/in/app/godam-studio/id6760693817)** — Native iOS client for the GoDAM digital asset management platform: media library, background uploads, posts and analytics
 - **[PDF Auto Unlocker](https://apps.apple.com/app/pdf-auto-unlocker/id6771767483)** — Menubar utility for macOS, notarized and on the Mac App Store
 
 ### Open source
