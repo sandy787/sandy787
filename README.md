@@ -1,6 +1,6 @@
-<img align="right" width="300" alt="Live GitHub activity, rendered as an iPhone Spotlight screen" src="https://raw.githubusercontent.com/sandy787/sandy787/main/assets/phone.svg">
-
 # Prajwal Sanap
+
+<img align="right" width="300" alt="Live GitHub activity, rendered as an iPhone Spotlight screen" src="https://raw.githubusercontent.com/sandy787/sandy787/main/assets/phone.svg">
 
 **iOS Engineer · [rtCamp](https://rtcamp.com) · Pune, India**
 
@@ -8,12 +8,12 @@ I build and ship iOS and macOS applications in Swift and SwiftUI, and maintain t
 
 ### Production apps
 
-- **[GoDAM Studio](https://godam.io)** — Digital asset management for WordPress, on iOS
-- **[PDF Auto Unlocker](https://github.com/rtCamp/pdf-auto-unlocker)** — Menubar utility for macOS, notarized and on the Mac App Store
+- **[GoDAM Studio](https://apps.apple.com/in/app/godam-studio/id6760693817)** — Native iOS client for the GoDAM digital asset management platform: media library, background uploads, posts and analytics
+- **[PDF Auto Unlocker](https://apps.apple.com/app/pdf-auto-unlocker/id6771767483)** — Menubar utility for macOS, notarized and on the Mac App Store
 
 ### Open source
 
-- **[Sikandar](https://github.com/rtCamp/sikandar)** — Score tracker for group games, iOS and iPadOS
+- **[Sikandar](https://apps.apple.com/app/sikandar-scorekeeper/id6815978303)** — Score tracker for group games, iOS and iPadOS
 - [WeatherAssistant](https://github.com/sandy787/WeatherAssistant) · [macos-portfolio](https://github.com/sandy787/macos-portfolio)
 
 ### Core stack
